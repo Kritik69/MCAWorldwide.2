@@ -1,0 +1,38 @@
+.formContainer {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nameInput {
+    border: 1px solid grey;
+    padding: 0.5rem;
+}
+.emailInput {
+    border: 1px solid grey;
+    padding: 0.5rem;
+}
+.messageInput {
+    border: 1px solid grey;
+    padding: 0.5rem;
+}
+.formParent {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    text-align: left;
+}
+.submit-btn {
+    background-color: rgb(0, 0, 61);
+    color: white;
+    width: max-content;
+}
+.submit-btn:hover {
+    background-color: green;
+    color: white;
+}
+form.inputParent label {
+    margin-top: 15px;
+}
+.iconsDiv h6 {
+    font-size: 30px;
+}

@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+}
+h2 {
+    text-align: center;
+}
+.ourServicesMain {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.cardParent {
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.ourServicesHeading {
+    font-weight: bolder;
+}
+.cards {
+    margin: 10px;
+    padding: 1rem;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 300px;
+    height: auto;
+    align-items: center;
+    font-family: "Alata", Sans-serif;
+    background-image: linear-gradient(45deg,#efefef 25%,rgba(239,239,239,0) 25%, rgba(239,239,239,0) 75%,#efefef 75%,#efefef), linear-gradient(45deg,#efefef 25%, rgba(239,239,239,0) 25%,rgba(239,239,239,0) 75%,#efefef 75%,#efefef);
+}

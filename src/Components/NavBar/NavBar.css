@@ -1,0 +1,29 @@
+.proposal-btn {
+    background-color: rgb(0, 0, 61);
+    border: 1px solid rgb(0, 0, 61);
+}
+.nav-link {
+    color: rgb(0, 0, 61);
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,61, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0 !important;
+}
+h1{z-index: 9;}
+.wave{z-index: 1;}
+@media screen and (max-width: 767px) {
+    .contact {margin: 20px 0 0;}
+    .sec-padd {padding: 30px 0 !important;}
+    h1 {font-size: 28px !important;}
+    a.navbar-brand img {max-width: 200px;}
+
+    .swiper-slide {
+        width: 100% !important;
+    }
+}

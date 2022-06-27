@@ -1,0 +1,33 @@
+.footerParent {
+    background-color: rgb(0, 0, 61);
+}
+.footerParent2 {
+    background-color: rgb(1, 1, 34);
+}
+.footer1 {
+    text-align: left;
+    color: white;
+}
+.blog {
+    display: flex;
+    flex-direction: column;
+}
+.links {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #fff;
+    padding: 10px 0;
+}
+.footer2 {
+    color: white;
+    padding: 1rem;
+}
+.v-link {
+    text-decoration: none;
+    color: white;
+}
+.iconsDiv {
+    display: flex;
+    flex-direction: row;
+}
+.iconsDiv h6{margin-right: 10px;}
