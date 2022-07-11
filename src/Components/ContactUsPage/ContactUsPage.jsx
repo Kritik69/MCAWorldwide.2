@@ -34,7 +34,7 @@ function ContactUsPage() {
   return (
     <>
       <NavBar />
-      <div className="background sec-padd">
+      <div className="background3 sec-padd">
                 <div className="container">
                    <div className="row align-items-center">
                       <h1 className='text-white contactUsHeading text-center'>Contact Us</h1>

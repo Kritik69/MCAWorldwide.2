@@ -15,12 +15,14 @@ import GalleryImg10 from './../../Video&Images/GalleryImg10.jpg'
 import GalleryImg11 from './../../Video&Images/GalleryImg11.jpg'
 import GalleryImg12 from './../../Video&Images/GalleryImg12.jpg'
 import GalleryImg13 from './../../Video&Images/GalleryImg13.jpg'
+import GalleryImg14 from './../../Video&Images/GalleryImg14.jpg'
+import GalleryImg15 from './../../Video&Images/GalleryImg15.jpg'
 
 function GalleryPage() {
   return (
     <>
       <NavBar />
-      <div className="background sec-padd">
+      <div className="background2 sec-padd">
                 <div className="container">
                    <div className="row align-items-center">
                       <h1 className='text-white contactUsHeading text-center'>Gallery</h1>
@@ -71,6 +73,12 @@ function GalleryPage() {
         </figure>
         <figure className="gallery__item gallery__item--13">
           <img src={GalleryImg13} className="gallery__img" alt="13" />
+        </figure>
+        <figure className="gallery__item gallery__item--13">
+          <img src={GalleryImg14} className="gallery__img" alt="13" />
+        </figure>
+        <figure className="gallery__item gallery__item--13">
+          <img src={GalleryImg15} className="gallery__img" alt="13" />
         </figure>
         </div>
       <Footer />

@@ -51,3 +51,8 @@
   will-change: transform,transition;
   align-items: center;
 }
+
+.slick-track {
+  display: flex;
+  align-items: center;
+}

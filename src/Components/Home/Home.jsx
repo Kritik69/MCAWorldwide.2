@@ -13,8 +13,8 @@ function Home() {
     <>
       <NavBar />
       <AboutUs />
-      <OurServices />
       <Gallery />
+      <OurServices />
       <Event />
       <Clients />
       <Form />

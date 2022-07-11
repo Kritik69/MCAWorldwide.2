@@ -2,3 +2,9 @@
     font-size: 64px;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
+.background3 {
+    background-image: url('./../../Video&Images/contactUs.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
