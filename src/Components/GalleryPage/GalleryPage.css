@@ -1,3 +1,9 @@
+.background2 {
+    background-image: url('./../../Video&Images/gallery.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

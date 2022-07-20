@@ -41,7 +41,7 @@ function Form() {
                         <input type="email" name='user_email' className="form-control fs-6 emailInput" />
 
                         <label className='fs-5'>Comment or Message</label>
-                        <textarea name="message" rows="4" className='form-control fs-6 messageInput'/>
+                        <textarea name="user_message" rows="4" className='form-control fs-6 messageInput'/>
                         <input
                             type='submit'
                             value='Send'
@@ -55,7 +55,7 @@ function Form() {
                 </div>
                 <div className="col-md-6">
                     <div className='map'>
-                        <iframe title='unique' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.725184463526!2d72.84184411421343!3d19.119708355567195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9ec60b25171%3A0x9cfe4b0f91948268!2sV-ART%20SERVICES%20PRIVATE%20LIMITED!5e0!3m2!1sen!2sin!4v1656312834119!5m2!1sen!2sin" width="100%" height="400" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe title='unique' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.7242789610837!2d72.84168311437745!3d19.119748055565577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9fb823743e1%3A0xa197c2ba10d61be7!2sMusic%2C%20Culture%20%26%20Arts%20(%20MCA%20Worldwide)!5e0!3m2!1sen!2sin!4v1657017808512!5m2!1sen!2sin" width="100%" height="400" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
             </div>
